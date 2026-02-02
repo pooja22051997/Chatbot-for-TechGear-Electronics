@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechGear Chatbot Architecture</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #f4f6f8;
+            margin: 0;
+        }
+        .container {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            max-width: 90%;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>TechGear Chatbot Architecture</h1>
+        <pre class="mermaid">
+graph TD
+    Client[Client/User] -->|POST /chat| API[FastAPI Endpoint]
+    API --> Workflow[LangGraph Workflow]
+    
+    subgraph "LangGraph Workflow"
+        Start --> Classifier{Classifier Node}
+        Classifier -->|Product/General| RAG[RAG Responder Node]
+        Classifier -->|Returns/Complaints| Escalation[Escalation Node]
+        
+        subgraph "RAG System"
+            RAG -->|Query| Retriever[ChromaDB Retriever]
+            Retriever -->|Context| Generator[Gemini Model]
+            Generator -->|Answer| RAG
+        end
+        
+        RAG --> End
+        Escalation --> End
+    end
+    
+    Workflow -->|JSON Response| API
+    API -->|Response| Client
+    
+    classDef default fill:#f9f9f9,stroke:#333,stroke-width:2px;
+    classDef highlight fill:#e1f5fe,stroke:#01579b,stroke-width:2px;
+    class Classifier,RAG,Escalation highlight;
+        </pre>
+    </div>
+
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+        mermaid.initialize({ startOnLoad: true });
+    </script>
+</body>
+</html>

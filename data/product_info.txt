@@ -1,0 +1,769 @@
+# TechGear Electronics - Product Knowledge Base
+# Last Updated: February 2026
+
+================================================================================
+AUDIO & HEADPHONES
+================================================================================
+
+Product: Wireless Earbuds Elite
+Price: ₹4,999 | Features: ANC, 24-hour battery, Bluetooth 5.2, touch controls, IPX4 water resistant
+Warranty: 6 months | SKU: AUD-001
+Troubleshooting: If earbuds don't pair, hold both earbuds for 10 seconds to reset. Ensure Bluetooth is enabled on your device.
+
+Product: Wireless Earbuds Lite
+Price: ₹2,499 | Features: 12-hour battery, Bluetooth 5.0, compact charging case, voice assistant support
+Warranty: 6 months | SKU: AUD-002
+Troubleshooting: For connectivity issues, forget the device from Bluetooth settings and re-pair.
+
+Product: Over-Ear Headphones Pro
+Price: ₹8,999 | Features: ANC, 40-hour battery, Hi-Res Audio, foldable design, memory foam cushions
+Warranty: 1 year | SKU: AUD-003
+Troubleshooting: If ANC is not working, ensure the headphones are fully charged and ANC is enabled via the button.
+
+Product: Over-Ear Headphones Studio
+Price: ₹12,999 | Features: Studio-grade sound, 50mm drivers, detachable cable, leather ear cushions
+Warranty: 1 year | SKU: AUD-004
+Troubleshooting: For audio imbalance, check the audio balance settings on your device.
+
+Product: Gaming Headset Titan
+Price: ₹6,499 | Features: 7.1 surround sound, retractable mic, RGB lighting, USB & 3.5mm connection
+Warranty: 1 year | SKU: AUD-005
+Troubleshooting: If mic is not detected, check the USB connection or 3.5mm jack is properly inserted.
+
+Product: Gaming Headset Strike
+Price: ₹3,999 | Features: Stereo sound, noise-cancelling mic, lightweight, compatible with PC/Console
+Warranty: 6 months | SKU: AUD-006
+Troubleshooting: For echo issues, disable microphone monitoring in your audio settings.
+
+Product: Neckband Wireless Flex
+Price: ₹1,999 | Features: 18-hour battery, magnetic earbuds, fast charging (10min = 2hrs), IPX5
+Warranty: 6 months | SKU: AUD-007
+Troubleshooting: If one earbud is louder, clean the mesh with a soft brush.
+
+Product: Neckband Wireless Sport
+Price: ₹2,799 | Features: 24-hour battery, sweat resistant IPX6, bass boost mode, in-line controls
+Warranty: 6 months | SKU: AUD-008
+Troubleshooting: For Bluetooth dropouts, ensure no physical obstructions between device and neckband.
+
+Product: True Wireless Buds Max
+Price: ₹7,999 | Features: Spatial audio, 32-hour total battery, wireless charging case, multipoint connection
+Warranty: 1 year | SKU: AUD-009
+Troubleshooting: To enable multipoint, connect to first device, then hold touch panel and connect to second.
+
+Product: True Wireless Buds Mini
+Price: ₹3,499 | Features: Compact design, 20-hour battery, IPX4, transparency mode
+Warranty: 6 months | SKU: AUD-010
+Troubleshooting: For poor fit, try different ear tip sizes included in the box.
+
+Product: Bone Conduction Headphones
+Price: ₹5,999 | Features: Open-ear design, IP67 waterproof, 8-hour battery, ideal for outdoor sports
+Warranty: 1 year | SKU: AUD-011
+Troubleshooting: Position the transducers directly on cheekbones for optimal audio quality.
+
+Product: Kids Wireless Headphones
+Price: ₹1,499 | Features: Volume limiter (85dB), 20-hour battery, durable design, fun colors
+Warranty: 6 months | SKU: AUD-012
+Troubleshooting: Volume is intentionally limited for hearing protection and cannot be increased.
+
+Product: Portable Bluetooth Speaker Mini
+Price: ₹1,999 | Features: 10W output, 8-hour battery, IPX5, compact & lightweight, aux input
+Warranty: 6 months | SKU: AUD-013
+Troubleshooting: If distorted at high volume, lower the volume slightly for cleaner sound.
+
+Product: Portable Bluetooth Speaker Max
+Price: ₹4,999 | Features: 30W output, 15-hour battery, IPX7, stereo pairing, built-in mic
+Warranty: 1 year | SKU: AUD-014
+Troubleshooting: For stereo pairing, turn on both speakers, press sync button on primary speaker.
+
+Product: Party Speaker Boom
+Price: ₹9,999 | Features: 100W output, LED lights, karaoke mic input, 12-hour battery, wheels
+Warranty: 1 year | SKU: AUD-015
+Troubleshooting: For microphone echo, reduce the mic volume or move away from the speaker.
+
+Product: Soundbar Home Theater
+Price: ₹14,999 | Features: 150W, 2.1 channel, wireless subwoofer, HDMI ARC, Bluetooth, optical input
+Warranty: 1 year | SKU: AUD-016
+Troubleshooting: For no sound via HDMI ARC, enable CEC/ARC in your TV settings.
+
+Product: Soundbar Compact
+Price: ₹6,999 | Features: 80W, 2.0 channel, wall-mountable, Bluetooth, USB playback
+Warranty: 1 year | SKU: AUD-017
+Troubleshooting: If Bluetooth keeps disconnecting, ensure no interference from other wireless devices.
+
+Product: Turntable Vinyl Classic
+Price: ₹11,999 | Features: Belt-drive, built-in preamp, USB output, includes cartridge
+Warranty: 1 year | SKU: AUD-018
+Troubleshooting: For skipping, ensure the turntable is on a level surface and the stylus is clean.
+
+Product: DAC Amplifier Hi-Fi
+Price: ₹8,499 | Features: 32-bit/384kHz, USB/optical/coaxial input, headphone amp, volume control
+Warranty: 1 year | SKU: AUD-019
+Troubleshooting: Install the driver from our website for Windows compatibility.
+
+Product: Microphone USB Podcaster
+Price: ₹4,499 | Features: Cardioid pattern, 24-bit/96kHz, headphone jack, mute button, desk stand
+Warranty: 1 year | SKU: AUD-020
+Troubleshooting: Speak 6-12 inches from the mic for optimal audio quality.
+
+================================================================================
+WEARABLES & SMARTWATCHES
+================================================================================
+
+Product: SmartWatch Pro X
+Price: ₹15,999 | Features: Heart rate, GPS, 7-day battery, water resistant 50m, AMOLED display
+Warranty: 1 year standard, 2 years extended (₹1,999) | SKU: WRB-001
+Troubleshooting: If heart rate is inaccurate, wear the watch snugly above the wrist bone.
+
+Product: SmartWatch Lite
+Price: ₹6,999 | Features: Heart rate, sleep tracking, 14-day battery, 5ATM water resistant
+Warranty: 1 year | SKU: WRB-002
+Troubleshooting: For sync issues, ensure Bluetooth is enabled and the app has location permissions.
+
+Product: SmartWatch Ultra
+Price: ₹24,999 | Features: Titanium body, GPS + cellular, 10-day battery, dive mode 100m, sapphire glass
+Warranty: 2 years | SKU: WRB-003
+Troubleshooting: For cellular issues, ensure you have activated the eSIM via your carrier.
+
+Product: SmartWatch Kids
+Price: ₹4,999 | Features: GPS tracking, SOS button, video calling, geo-fencing, 4G LTE
+Warranty: 1 year | SKU: WRB-004
+Troubleshooting: Insert a nano-SIM with data plan; 2G-only SIMs are not supported.
+
+Product: Fitness Band Core
+Price: ₹2,499 | Features: Heart rate, SpO2, 20-day battery, 50+ sports modes, swim-proof
+Warranty: 6 months | SKU: WRB-005
+Troubleshooting: For inaccurate step count, ensure band is worn on non-dominant wrist.
+
+Product: Fitness Band Max
+Price: ₹3,999 | Features: AMOLED display, GPS, 14-day battery, stress monitoring, women's health
+Warranty: 1 year | SKU: WRB-006
+Troubleshooting: GPS may take 1-2 mins to lock; start in open area for faster fix.
+
+Product: Smart Ring Pulse
+Price: ₹9,999 | Features: Heart rate, sleep tracking, 7-day battery, titanium, water resistant 100m
+Warranty: 1 year | SKU: WRB-007
+Troubleshooting: Ensure ring fits snugly; use included sizing kit to find correct size.
+
+Product: Hybrid Watch Classic
+Price: ₹12,999 | Features: Analog display, fitness tracking, 30-day battery, notification vibration
+Warranty: 1 year | SKU: WRB-008
+Troubleshooting: Hands may need recalibration; open app and follow calibration steps.
+
+Product: GPS Running Watch
+Price: ₹19,999 | Features: Multi-band GPS, 100-hour battery, route navigation, training load metrics
+Warranty: 1 year | SKU: WRB-009
+Troubleshooting: For best GPS accuracy, update AGPS data weekly via the companion app.
+
+Product: Smart Glasses AR View
+Price: ₹29,999 | Features: AR display, camera, voice assistant, 6-hour battery, prescription-ready
+Warranty: 1 year | SKU: WRB-010
+Troubleshooting: Frame must be paired via NFC; tap phone to left temple to initiate pairing.
+
+Product: Sleep Tracker Band
+Price: ₹1,999 | Features: Sleep stages, HRV tracking, 10-day battery, silent alarm
+Warranty: 6 months | SKU: WRB-011
+Troubleshooting: Wear band at least 2 hours before sleep for accurate pre-sleep HRV.
+
+Product: ECG Health Watch
+Price: ₹18,999 | Features: Medical-grade ECG, blood pressure, body composition, FDA-cleared
+Warranty: 2 years | SKU: WRB-012
+Troubleshooting: For ECG, sit still and place finger on electrode for 30 seconds.
+
+Product: Smart Pendant NFC
+Price: ₹3,499 | Features: NFC payments, emergency SOS, step tracking, 7-day battery
+Warranty: 6 months | SKU: WRB-013
+Troubleshooting: Register your NFC card in the app before attempting payments.
+
+Product: Pet Tracker GPS
+Price: ₹4,999 | Features: Real-time GPS, activity monitoring, virtual fence, waterproof, 14-day battery
+Warranty: 1 year | SKU: WRB-014
+Troubleshooting: Requires SIM card with data; activated in the companion app.
+
+Product: Elderly Care Watch
+Price: ₹7,999 | Features: Fall detection, SOS, heart rate, medication reminders, 4G calling
+Warranty: 1 year | SKU: WRB-015
+Troubleshooting: Enable fall detection in settings; automatic SOS after 30 seconds of no response.
+
+================================================================================
+POWER & CHARGING
+================================================================================
+
+Product: Power Bank Ultra 20000mAh
+Price: ₹2,499 | Features: Fast charging 22.5W, USB-C & USB-A, LED indicator, compact design
+Warranty: 1 year | SKU: PWR-001
+Troubleshooting: If not charging device, use the included cable; some cables don't support fast charging.
+
+Product: Power Bank Slim 10000mAh
+Price: ₹1,499 | Features: 18W fast charging, dual USB output, portable, airline approved
+Warranty: 1 year | SKU: PWR-002
+Troubleshooting: Press power button twice to enable low-current mode for earbuds/wearables.
+
+Product: Power Bank Solar 25000mAh
+Price: ₹3,999 | Features: Solar panel, 3 USB outputs, LED flashlight, rugged & dustproof
+Warranty: 1 year | SKU: PWR-003
+Troubleshooting: Solar charging is supplemental; fully charge via cable before outdoor trips.
+
+Product: Power Bank Magnetic 5000mAh
+Price: ₹2,999 | Features: MagSafe compatible, 15W wireless, USB-C output, compact
+Warranty: 6 months | SKU: PWR-004
+Troubleshooting: Remove phone case if magnetic attachment is weak.
+
+Product: Power Bank Laptop 30000mAh
+Price: ₹5,999 | Features: 100W PD, charges laptops, dual USB-C, LED display
+Warranty: 1 year | SKU: PWR-005
+Troubleshooting: Use USB-C port marked "100W" for laptop charging.
+
+Product: Wireless Charging Pad 15W
+Price: ₹1,299 | Features: Qi certified, LED indicator, anti-slip surface, foreign object detection
+Warranty: 6 months | SKU: PWR-006
+Troubleshooting: Remove metal objects and thick cases for optimal charging.
+
+Product: Wireless Charging Stand 20W
+Price: ₹1,999 | Features: Dual coil (portrait/landscape), fast charge, includes adapter
+Warranty: 1 year | SKU: PWR-007
+Troubleshooting: Ensure phone is centered on the coil; adjust position if charging doesn't start.
+
+Product: 3-in-1 Wireless Charger
+Price: ₹3,499 | Features: Phone + Watch + Earbuds, 15W for phone, foldable design
+Warranty: 1 year | SKU: PWR-008
+Troubleshooting: Watch charger is designed for specific brands; check compatibility list.
+
+Product: Car Charger Dual 40W
+Price: ₹999 | Features: USB-C PD 25W + USB-A 15W, compact, fast charge compatible
+Warranty: 6 months | SKU: PWR-009
+Troubleshooting: For issues in some cars, use the 12V socket instead of front USB ports.
+
+Product: Car Charger Wireless Mount
+Price: ₹2,499 | Features: 15W wireless, auto-clamping, air vent & dash mount, USB-C input
+Warranty: 1 year | SKU: PWR-010
+Troubleshooting: Auto clamp requires phone width between 60-90mm; manual mode available.
+
+Product: Wall Charger GaN 65W
+Price: ₹2,499 | Features: 2x USB-C + 1x USB-A, foldable plug, compact GaN technology
+Warranty: 1 year | SKU: PWR-011
+Troubleshooting: Total output is shared; single port delivers max power when alone.
+
+Product: Wall Charger GaN 100W
+Price: ₹3,999 | Features: 2x USB-C, laptop compatible, PPS support, includes 1m cable
+Warranty: 1 year | SKU: PWR-012
+Troubleshooting: For optimal speed, ensure your device supports PD 3.0 or PPS.
+
+Product: Wall Charger Mini 20W
+Price: ₹799 | Features: USB-C PD, ultra-compact, travel-friendly
+Warranty: 6 months | SKU: PWR-013
+Troubleshooting: iPhone 12+ requires 20W or higher for fast charging.
+
+Product: Multi-Device Charging Station
+Price: ₹4,999 | Features: 5 device slots, 120W total, smart power distribution, cable management
+Warranty: 1 year | SKU: PWR-014
+Troubleshooting: Heavy draw devices may throttle others; use larger wattage slots for laptops.
+
+Product: USB-C Cable 2m Braided
+Price: ₹599 | Features: 100W PD, 480Mbps data, nylon braided, aluminum connectors
+Warranty: 6 months | SKU: PWR-015
+Troubleshooting: If not fast charging, check both device and charger support the same PD standard.
+
+Product: Lightning Cable 1.5m MFi
+Price: ₹899 | Features: MFi certified, 2.4A charging, durable TPE, Apple compatible
+Warranty: 6 months | SKU: PWR-016
+Troubleshooting: If "accessory not supported" appears, clean lightning port with dry brush.
+
+Product: USB-C to Lightning Cable
+Price: ₹1,199 | Features: MFi certified, 30W fast charging, 1m length, braided
+Warranty: 6 months | SKU: PWR-017
+Troubleshooting: Fast charging requires a 20W+ USB-C charger.
+
+Product: Micro USB Cable 3-Pack
+Price: ₹399 | Features: 2.4A charging, 1m each, assorted colors
+Warranty: 3 months | SKU: PWR-018
+Troubleshooting: Micro USB is limited to 18W; for faster charging, upgrade to USB-C devices.
+
+Product: USB-C Hub 7-in-1
+Price: ₹2,999 | Features: HDMI 4K, 2x USB-A, 1x USB-C, SD/microSD, 100W passthrough
+Warranty: 1 year | SKU: PWR-019
+Troubleshooting: 4K@60Hz requires USB-C with DP Alt Mode; check laptop specifications.
+
+Product: USB-C Docking Station
+Price: ₹7,999 | Features: Dual HDMI, Gigabit Ethernet, 4x USB-A, 100W PD, SSD enclosure
+Warranty: 1 year | SKU: PWR-020
+Troubleshooting: Dual extended displays require MST support; MacBooks use mirrored mode.
+
+================================================================================
+MOBILE ACCESSORIES
+================================================================================
+
+Product: Phone Case Armor Pro
+Price: ₹1,299 | Features: Military drop protection, raised camera lip, textured grip, kickstand
+Warranty: 6 months | SKU: MOB-001
+Troubleshooting: Slightly tight fit is normal for maximum protection.
+
+Product: Phone Case Clear Shield
+Price: ₹699 | Features: Crystal clear, anti-yellowing, shockproof corners, slim profile
+Warranty: 3 months | SKU: MOB-002
+Troubleshooting: Clean case regularly with mild soap; avoid harsh chemicals.
+
+Product: Screen Protector Tempered Glass
+Price: ₹499 | Features: 9H hardness, anti-fingerprint, bubble-free installation, 2-pack
+Warranty: Lifetime replacement (for same device) | SKU: MOB-003
+Troubleshooting: If bubbles appear, use included squeegee from center outward.
+
+Product: Screen Protector Privacy
+Price: ₹799 | Features: 28° privacy filter, anti-spy, tempered glass, oleo-phobic coating
+Warranty: 6 months | SKU: MOB-004
+Troubleshooting: Screen may appear darker; this is normal for privacy protection.
+
+Product: Phone Grip Ring Stand
+Price: ₹299 | Features: 360° rotation, car mount compatible, slim profile, reusable adhesive
+Warranty: 3 months | SKU: MOB-005
+Troubleshooting: Wait 24 hours after installation before hanging phone.
+
+Product: Phone Wallet Leather
+Price: ₹999 | Features: 3 card slots, magnetic closure, premium leather, RFID blocking
+Warranty: 6 months | SKU: MOB-006
+Troubleshooting: May affect wireless charging; remove wallet before charging.
+
+Product: Camera Lens Kit Mobile
+Price: ₹1,499 | Features: Wide, macro, fisheye lenses, universal clip, lens caps included
+Warranty: 6 months | SKU: MOB-007
+Troubleshooting: Clean phone lens before attaching; center clip over camera.
+
+Product: Selfie Stick Bluetooth
+Price: ₹799 | Features: Extendable to 80cm, Bluetooth shutter, tripod mode, lightweight
+Warranty: 3 months | SKU: MOB-008
+Troubleshooting: If shutter doesn't work, re-pair Bluetooth or replace CR2032 battery.
+
+Product: Phone Tripod Flexible
+Price: ₹599 | Features: Bendable legs, universal phone mount, GoPro compatible, compact
+Warranty: 6 months | SKU: MOB-009
+Troubleshooting: Wrap legs around stable objects; may not support tablets.
+
+Product: Phone Gimbal Stabilizer
+Price: ₹5,999 | Features: 3-axis stabilization, face tracking, gesture control, 14-hour battery
+Warranty: 1 year | SKU: MOB-010
+Troubleshooting: Balance phone before powering on; motor strain shortens battery life.
+
+Product: Tablet Stand Adjustable
+Price: ₹1,299 | Features: 360° rotation, height adjustable, foldable, supports up to 13"
+Warranty: 6 months | SKU: MOB-011
+Troubleshooting: Tighten adjustment knobs firmly to prevent drooping.
+
+Product: Laptop Stand Aluminum
+Price: ₹2,499 | Features: Ergonomic angle, ventilated, supports up to 17", cable management
+Warranty: 1 year | SKU: MOB-012
+Troubleshooting: Rubber pads may need replacement after extended use.
+
+Product: Stylus Pen Universal
+Price: ₹899 | Features: Capacitive tip, magnetic cap, works on all touchscreens, ergonomic grip
+Warranty: 6 months | SKU: MOB-013
+Troubleshooting: Not pressure sensitive; for drawing, consider active stylus.
+
+Product: Active Stylus Pen
+Price: ₹2,999 | Features: 4096 pressure levels, palm rejection, USB-C charging, tilt support
+Warranty: 1 year | SKU: MOB-014
+Troubleshooting: Check device compatibility; not all tablets support active styluses.
+
+Product: Phone Cooling Fan Clip
+Price: ₹999 | Features: 30° cooling, RGB lights, 5-hour battery, universal clip, quiet operation
+Warranty: 6 months | SKU: MOB-015
+Troubleshooting: Position over processor (usually upper back of phone) for best results.
+
+Product: Phone Lanyard Crossbody
+Price: ₹399 | Features: Adjustable strap, universal patch, quick disconnect, comfortable nylon
+Warranty: 3 months | SKU: MOB-016
+Troubleshooting: Adhesive patch may not stick to textured cases.
+
+Product: SIM Card Adapter Kit
+Price: ₹99 | Features: Nano to Micro, Nano to Standard, SIM ejector tool, storage case
+Warranty: Lifetime | SKU: MOB-017
+Troubleshooting: Handle SIM carefully; bent contacts can damage device.
+
+Product: OTG Adapter USB-C
+Price: ₹299 | Features: USB-C to USB-A, USB 3.0 speeds, compact, plug-and-play
+Warranty: 6 months | SKU: MOB-018
+Troubleshooting: Device must support OTG; check phone specifications.
+
+Product: HDMI Adapter USB-C
+Price: ₹999 | Features: 4K@60Hz, plug-and-play, compact, works with laptops & phones
+Warranty: 6 months | SKU: MOB-019
+Troubleshooting: Phone must support DP Alt Mode; not all USB-C phones do.
+
+Product: Phone Mount Bike
+Price: ₹799 | Features: 360° rotation, shockproof, fits 4-7" phones, tool-free installation
+Warranty: 6 months | SKU: MOB-020
+Troubleshooting: Re-tighten after first ride; handlebar vibration may loosen mount.
+
+================================================================================
+SMART HOME
+================================================================================
+
+Product: Smart Bulb White 10W
+Price: ₹499 | Features: WiFi, dimmable, voice control (Alexa/Google), app scheduling
+Warranty: 1 year | SKU: HOM-001
+Troubleshooting: For connection issues, ensure 2.4GHz WiFi; 5GHz is not supported.
+
+Product: Smart Bulb Color 12W
+Price: ₹899 | Features: 16 million colors, music sync, scenes, voice control, grouping
+Warranty: 1 year | SKU: HOM-002
+Troubleshooting: Color may vary slightly; calibrate via app for accurate hues.
+
+Product: Smart LED Strip 5m
+Price: ₹1,499 | Features: RGB, cut-to-size, adhesive back, music reactive, app control
+Warranty: 1 year | SKU: HOM-003
+Troubleshooting: Clean surface with alcohol before applying; let adhesive cure 24 hours.
+
+Product: Smart Plug 16A
+Price: ₹699 | Features: Power monitoring, scheduling, voice control, overload protection
+Warranty: 1 year | SKU: HOM-004
+Troubleshooting: Not for high-inductive loads (AC compressors); resistive loads only.
+
+Product: Smart Plug Mini 10A
+Price: ₹499 | Features: Compact, scheduling, voice control, fits behind furniture
+Warranty: 1 year | SKU: HOM-005
+Troubleshooting: Max 2500W load; exceeding may trigger safety shutdown.
+
+Product: Smart Power Strip 4-Socket
+Price: ₹1,999 | Features: Individual socket control, 3x USB, surge protection, app control
+Warranty: 1 year | SKU: HOM-006
+Troubleshooting: Do not daisy-chain with extension cords.
+
+Product: Smart Switch 1-Gang
+Price: ₹1,299 | Features: Touch panel, neutral wire required, voice control, scheduling
+Warranty: 2 years | SKU: HOM-007
+Troubleshooting: Professional installation recommended; requires neutral wire.
+
+Product: Smart Switch 2-Gang
+Price: ₹1,799 | Features: Touch panel, scene control, voice control, LED indicator
+Warranty: 2 years | SKU: HOM-008
+Troubleshooting: Each gang controls one circuit; wiring diagrams in manual.
+
+Product: Smart Dimmer Switch
+Price: ₹1,999 | Features: 10-100% dimming, works with dimmable LED bulbs, touch slider
+Warranty: 2 years | SKU: HOM-009
+Troubleshooting: Flickering occurs with non-dimmable bulbs; check bulb compatibility.
+
+Product: Smart Motion Sensor
+Price: ₹899 | Features: PIR detection, 120° range, triggers automations, battery powered
+Warranty: 1 year | SKU: HOM-010
+Troubleshooting: Avoid placing near heat sources; may cause false triggers.
+
+Product: Smart Door Sensor
+Price: ₹699 | Features: Magnetic contact, open/close detection, triggers alerts, CR2032 battery
+Warranty: 1 year | SKU: HOM-011
+Troubleshooting: Gap between sensor and magnet should be under 15mm.
+
+Product: Smart Temperature Sensor
+Price: ₹799 | Features: Temperature & humidity, triggers automations, display, battery 1 year
+Warranty: 1 year | SKU: HOM-012
+Troubleshooting: Place away from direct sunlight and air vents for accurate readings.
+
+Product: Smart Camera Indoor
+Price: ₹2,499 | Features: 1080p, night vision, 2-way audio, motion alerts, cloud/SD storage
+Warranty: 1 year | SKU: HOM-013
+Troubleshooting: For better night vision, remove reflective objects from camera view.
+
+Product: Smart Camera Outdoor
+Price: ₹3,999 | Features: 2K, weather-resistant IP66, spotlight, siren, color night vision
+Warranty: 1 year | SKU: HOM-014
+Troubleshooting: Position under eaves to minimize rain and sun exposure.
+
+Product: Smart Video Doorbell
+Price: ₹5,999 | Features: 2K, person detection, 2-way audio, wired/battery, cloud storage
+Warranty: 1 year | SKU: HOM-015
+Troubleshooting: Wired installation requires 16-24V AC doorbell transformer.
+
+Product: Smart Lock Fingerprint
+Price: ₹8,999 | Features: Fingerprint, PIN, app, key backup, auto-lock, 1-year battery
+Warranty: 2 years | SKU: HOM-016
+Troubleshooting: Register multiple fingerprint angles for faster recognition.
+
+Product: Smart Lock Keypad
+Price: ₹6,999 | Features: 6-digit PIN, app control, guest codes, auto-lock, voice control
+Warranty: 2 years | SKU: HOM-017
+Troubleshooting: Create temporary codes for guests; delete after use for security.
+
+Product: Smart IR Remote
+Price: ₹1,499 | Features: Controls AC/TV/STB, learning mode, voice control, scheduling
+Warranty: 1 year | SKU: HOM-018
+Troubleshooting: Point device toward IR blaster; obstacles block signal.
+
+Product: Smart Hub Zigbee
+Price: ₹2,999 | Features: Zigbee 3.0, connects 100+ devices, local control, app automations
+Warranty: 1 year | SKU: HOM-019
+Troubleshooting: Place hub centrally; Zigbee devices act as mesh repeaters.
+
+Product: Smart Speaker Mini
+Price: ₹2,999 | Features: Voice assistant, smart home control, music streaming, 360° sound
+Warranty: 1 year | SKU: HOM-020
+Troubleshooting: For "I didn't catch that," speak clearly and reduce background noise.
+
+================================================================================
+COMPUTER PERIPHERALS
+================================================================================
+
+Product: Mechanical Keyboard RGB
+Price: ₹4,999 | Features: Hot-swappable switches, per-key RGB, aluminum frame, USB-C, wrist rest
+Warranty: 2 years | SKU: CMP-001
+Troubleshooting: If key not registering, reseat the switch using included puller.
+
+Product: Mechanical Keyboard 65%
+Price: ₹3,499 | Features: Compact layout, Bluetooth + 2.4GHz + wired, PBT keycaps, 40-hour battery
+Warranty: 1 year | SKU: CMP-002
+Troubleshooting: Fn + key combinations replace missing keys; see manual for layout.
+
+Product: Membrane Keyboard Office
+Price: ₹999 | Features: Quiet keys, spill-resistant, full-size, USB, plug-and-play
+Warranty: 1 year | SKU: CMP-003
+Troubleshooting: If keys feel sticky, clean with mildly damp cloth; avoid excess moisture.
+
+Product: Ergonomic Keyboard Split
+Price: ₹6,999 | Features: Split design, tenting, wrist rests, programmable keys, USB-C
+Warranty: 2 years | SKU: CMP-004
+Troubleshooting: Adjustment period of 1-2 weeks is normal; start with minimal tenting.
+
+Product: Gaming Mouse 16000 DPI
+Price: ₹2,999 | Features: 16000 DPI, 8 programmable buttons, RGB, on-board memory, braided cable
+Warranty: 2 years | SKU: CMP-005
+Troubleshooting: Create profiles for different games; switch via DPI button.
+
+Product: Gaming Mouse Wireless
+Price: ₹4,499 | Features: 25000 DPI, 2.4GHz + Bluetooth, 70-hour battery, charging dock, RGB
+Warranty: 2 years | SKU: CMP-006
+Troubleshooting: For lowest latency, use 2.4GHz mode; Bluetooth for battery saving.
+
+Product: Office Mouse Ergonomic
+Price: ₹1,499 | Features: Vertical design, reduces wrist strain, 6 buttons, wireless, 1600 DPI
+Warranty: 1 year | SKU: CMP-007
+Troubleshooting: Vertical grip reduces ulnar deviation; give 3-5 days to adjust.
+
+Product: Mouse Wireless Compact
+Price: ₹699 | Features: Nano receiver, 18-month battery, silent clicks, 1200 DPI
+Warranty: 1 year | SKU: CMP-008
+Troubleshooting: Store receiver in mouse compartment when traveling.
+
+Product: Mouse Pad Extended XXL
+Price: ₹899 | Features: 800x300mm, smooth surface, stitched edges, anti-slip rubber
+Warranty: 6 months | SKU: CMP-009
+Troubleshooting: Machine wash cold, air dry; do not tumble dry.
+
+Product: Mouse Pad RGB Gaming
+Price: ₹1,499 | Features: LED edge lighting, multiple modes, USB passthrough, 350x250mm
+Warranty: 6 months | SKU: CMP-010
+Troubleshooting: Unplug and reconnect USB if RGB freezes.
+
+Product: Webcam 1080p 60fps
+Price: ₹3,499 | Features: Full HD, auto-focus, dual mics, privacy cover, universal clip
+Warranty: 1 year | SKU: CMP-011
+Troubleshooting: Ensure lighting is in front of you; backlighting reduces quality.
+
+Product: Webcam 4K Streaming
+Price: ₹7,999 | Features: 4K@30fps, AI framing, HDR, noise-cancelling mic, ring light
+Warranty: 1 year | SKU: CMP-012
+Troubleshooting: 4K streaming requires USB 3.0 and powerful PC.
+
+Product: Monitor Lamp LED
+Price: ₹1,999 | Features: Asymmetric light, adjustable color temp, no screen glare, USB-C powered
+Warranty: 1 year | SKU: CMP-013
+Troubleshooting: Light should not be visible on screen; adjust angle if glare appears.
+
+Product: External SSD 1TB
+Price: ₹6,999 | Features: 1050MB/s read, USB-C, portable, shock-resistant, hardware encryption
+Warranty: 3 years | SKU: CMP-014
+Troubleshooting: Enable TRIM in OS settings for optimal long-term performance.
+
+Product: External SSD 2TB
+Price: ₹11,999 | Features: 1050MB/s read, USB-C + USB-A cables, password protection
+Warranty: 3 years | SKU: CMP-015
+Troubleshooting: Format as exFAT for cross-platform Mac/Windows compatibility.
+
+Product: External HDD 4TB
+Price: ₹7,999 | Features: USB 3.0, auto-backup software, compact 2.5", bus-powered
+Warranty: 2 years | SKU: CMP-016
+Troubleshooting: Do not unplug during transfer; may cause data corruption.
+
+Product: USB Flash Drive 128GB
+Price: ₹799 | Features: USB 3.2, 400MB/s read, capless design, metal body
+Warranty: 5 years | SKU: CMP-017
+Troubleshooting: Performance varies by PC USB port version.
+
+Product: USB Flash Drive 256GB Dual
+Price: ₹1,499 | Features: USB-C + USB-A, 150MB/s, swing design, keyring hole
+Warranty: 5 years | SKU: CMP-018
+Troubleshooting: USB-C port delivers best speed; USB-A may be slower.
+
+Product: SD Card 256GB V30
+Price: ₹1,999 | Features: UHS-I V30, 170MB/s read, 4K video, water/shock/x-ray proof
+Warranty: 10 years | SKU: CMP-019
+Troubleshooting: Format card in camera before first use for optimal compatibility.
+
+Product: MicroSD Card 512GB A2
+Price: ₹3,999 | Features: A2 app performance, 180MB/s read, ideal for phones/drones
+Warranty: 10 years | SKU: CMP-020
+Troubleshooting: Not all dashcams support 512GB; check device spec.
+
+================================================================================
+GAMING & ENTERTAINMENT
+================================================================================
+
+Product: Game Controller Wireless
+Price: ₹3,499 | Features: 2.4GHz + Bluetooth, 40-hour battery, turbo, vibration, PC/Android/Switch
+Warranty: 1 year | SKU: GAM-001
+Troubleshooting: Update firmware via PC software for bug fixes.
+
+Product: Game Controller Pro
+Price: ₹5,999 | Features: Hall effect triggers, back paddles, swappable sticks, charging dock
+Warranty: 1 year | SKU: GAM-002
+Troubleshooting: Calibrate dead zones in settings for optimal performance.
+
+Product: Arcade Fight Stick
+Price: ₹8,999 | Features: Sanwa buttons, square gate, tournament-grade, works PC/PS/Switch
+Warranty: 1 year | SKU: GAM-003
+Troubleshooting: Button layout can be remapped; check manual for combinations.
+
+Product: Racing Wheel Set
+Price: ₹19,999 | Features: Force feedback, 900° rotation, pedals included, desk clamp
+Warranty: 1 year | SKU: GAM-004
+Troubleshooting: Secure clamp tightly; wheel torque may loosen over time.
+
+Product: Flight Joystick
+Price: ₹4,999 | Features: 12 programmable buttons, twist rudder, throttle control, suction mount
+Warranty: 1 year | SKU: GAM-005
+Troubleshooting: Calibrate in Windows Game Controllers before first use.
+
+Product: VR Headset Standalone
+Price: ₹34,999 | Features: 4K per eye, hand tracking, 128GB storage, no PC required
+Warranty: 1 year | SKU: GAM-006
+Troubleshooting: Adjust IPD slider for clearest image; guardian boundary keeps you safe.
+
+Product: VR Headset PC
+Price: ₹24,999 | Features: 2K per eye, 120Hz, external tracking, wired, requires gaming PC
+Warranty: 1 year | SKU: GAM-007
+Troubleshooting: Minimum GPU: RTX 2060 or equivalent; lower settings if stuttering.
+
+Product: Capture Card 4K
+Price: ₹12,999 | Features: 4K@60fps passthrough, 1080p@60fps capture, USB 3.0, no driver required
+Warranty: 1 year | SKU: GAM-008
+Troubleshooting: Use HDMI 2.0 cables for 4K; HDMI 1.4 limited to 1080p.
+
+Product: Stream Deck 15 Keys
+Price: ₹9,999 | Features: LCD keys, customizable, integrates with OBS/Twitch/YouTube
+Warranty: 2 years | SKU: GAM-009
+Troubleshooting: Create folders to expand beyond 15 actions.
+
+Product: Streaming Microphone RGB
+Price: ₹6,999 | Features: Cardioid, pop filter, shock mount, RGB ring, USB-C
+Warranty: 1 year | SKU: GAM-010
+Troubleshooting: Adjust gain in software; clipping indicates gain too high.
+
+Product: Ring Light 18"
+Price: ₹2,999 | Features: Adjustable color temp, tripod, phone holder, dimmable, remote
+Warranty: 1 year | SKU: GAM-011
+Troubleshooting: Position light directly in front of face for catchlight in eyes.
+
+Product: Green Screen Collapsible
+Price: ₹3,499 | Features: 150x200cm, pop-up frame, wrinkle-resistant, carrying case
+Warranty: 1 year | SKU: GAM-012
+Troubleshooting: Ensure even lighting on green screen; shadows cause keying issues.
+
+Product: Gaming Chair Ergonomic
+Price: ₹14,999 | Features: 4D armrests, lumbar support, 180° recline, memory foam, 150kg capacity
+Warranty: 2 years | SKU: GAM-013
+Troubleshooting: Adjust lumbar to natural spine curve; avoid overly reclined position.
+
+Product: Gaming Desk RGB
+Price: ₹12,999 | Features: 140x60cm, LED strip, cable management, cup holder, headphone hook
+Warranty: 2 years | SKU: GAM-014
+Troubleshooting: Weight capacity 100kg; distribute heavy items evenly.
+
+Product: Monitor Arm Dual
+Price: ₹4,999 | Features: Fits 17-32", VESA 75/100, full motion, cable clips, desk clamp
+Warranty: 3 years | SKU: GAM-015
+Troubleshooting: Adjust tension after mounting; monitors should stay in place.
+
+Product: Monitor Arm Single
+Price: ₹2,499 | Features: Gas spring, 360° rotation, VESA 75/100, supports up to 9kg
+Warranty: 3 years | SKU: GAM-016
+Troubleshooting: Use included VESA adapter for smaller hole patterns.
+
+Product: Retro Game Console
+Price: ₹3,999 | Features: 5000 built-in games, HDMI output, 2 wireless controllers, save states
+Warranty: 1 year | SKU: GAM-017
+Troubleshooting: Not all games are licensed; use SD card for additional ROMs.
+
+Product: Handheld Console Portable
+Price: ₹15,999 | Features: 7" screen, emulates up to PS2/Wii, 6-hour battery, Hall sticks
+Warranty: 1 year | SKU: GAM-018
+Troubleshooting: Performance varies by game; adjust settings per title.
+
+Product: Arcade Cabinet Mini
+Price: ₹9,999 | Features: 50 classic games, 8" screen, authentic joystick/buttons, tabletop
+Warranty: 1 year | SKU: GAM-019
+Troubleshooting: Some games require 2-player; use USB controllers for player 2.
+
+Product: Gaming Router WiFi 6E
+Price: ₹16,999 | Features: Tri-band, 6Gbps, game accelerator, 8 LAN ports, OLED display
+Warranty: 2 years | SKU: GAM-020
+Troubleshooting: Enable game mode QoS for prioritized gaming traffic.
+
+================================================================================
+POLICIES & SUPPORT
+================================================================================
+
+Return Policy:
+- 7-day no-questions-asked return for all products in original packaging.
+- Refund processed within 5-7 business days to original payment method.
+- Products must be in unused condition with all accessories included.
+- Damaged or missing parts may result in partial refund.
+- Extended warranty products have separate return terms; see warranty card.
+
+Exchange Policy:
+- 15-day exchange for manufacturing defects.
+- Same product exchange subject to stock availability.
+- Different product exchange requires price adjustment.
+
+Warranty Claims:
+- Standard warranty covers manufacturing defects only.
+- Physical damage, water damage (unless waterproof rated), and misuse void warranty.
+- Warranty service available at all TechGear service centers.
+- Carry-in service; no doorstep pickup unless premium warranty purchased.
+
+Support Channels:
+- Email: support@techgear.com - Response within 24 hours
+- Live Chat: Available on website and app - Mon-Sat, 9AM-9PM IST
+- Walk-in: 50+ service centers across India - Find nearest on website
+
+Support Hours:
+- Monday to Saturday: 9:00 AM to 6:00 PM IST
+- Sunday: Closed
+- National holidays: Closed
+
+FAQ - Frequently Asked Questions:
+
+Q: How do I track my order?
+A: You will receive a tracking link via SMS and email once your order is shipped. You can also track in the app under "My Orders."
+
+Q: What payment methods do you accept?
+A: We accept all major credit/debit cards, UPI, net banking, EMI options, and cash on delivery (up to ₹50,000).
+
+Q: Do you offer EMI options?
+A: Yes, no-cost EMI is available on orders above ₹3,000 with select bank cards. See checkout for eligible options.
+
+Q: How long does delivery take?
+A: Metro cities: 2-3 business days. Other cities: 4-6 business days. Remote areas: 7-10 business days.
+
+Q: Is there a TechGear store near me?
+A: We have 50+ stores across India. Use the store locator on our website or app to find the nearest one.
+
+Q: Can I cancel my order?
+A: Orders can be cancelled within 24 hours of placement if not yet shipped. Contact support for cancellation.
+
+Q: What is covered under warranty?
+A: Manufacturing defects only. Accidental damage, water damage (on non-waterproof products), and misuse are not covered.
+
+Q: How do I claim warranty?
+A: Visit any TechGear service center with product, invoice, and warranty card. Or raise a ticket on the app.
+
+Q: Do you ship internationally?
+A: Currently, we only ship within India. International shipping coming soon.
+
+Q: How do I contact customer support?
+A: Email: support@techgear.com | Live Chat: Available on website
